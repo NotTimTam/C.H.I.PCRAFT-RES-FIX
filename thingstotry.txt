@@ -1,1 +1,3 @@
-Here is a  fun thing to try, open MINECRAFT Raspberry Pie Edition on C.H.I.P twice! Then get a button mapper and connect a usb/bluetooth controller to one window, and use a mouse and keyboard with the other. Then you can have a LAN game on the same system and play with a friend!
+Here is a  fun thing to try, open MINECRAFT Raspberry Pie Edition on C.H.I.P twice! Then get a button mapper and connect a usb/bluetooth
+controller to one window, and use a mouse and keyboard with the other. Then you can have a LAN game on the same system and play with a
+friend!
