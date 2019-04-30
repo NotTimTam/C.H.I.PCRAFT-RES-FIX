@@ -2,6 +2,12 @@
 
 C.H.I.PCRAFT-RES-FIX
 
+NTC has gone down the pooper, but that doesn't mean C.H.I.P has. If you are playing MC on a Pocket C.H.I.P follow the original tutorial which is now saved here: http://chip.jfpossibilities.com/gits/chipcraft.git/
+
+However, if you are trying to do it on a desktop C.H.I.P you can continue using this repository.
+
+Thanks! (note: any NTC links in this readme will not work)
+
 NTC made a port of MINECRAFT Raspberry Pi Edition to chip. They added a resolution changer to make it fit on PocketC.H.I.P's screen. And although you can install it on a normal chip (using a regular monitor/tv as display), the window for minecraft is small and the gui doesn't fit properly on bigger screens. This is a modified version of NTC's port that allows the game to run in a larger window on C.H.I.P. Just follow the instructions.txt file in the .zip (after extracting to //home/chip) to build and run MINECRAFT in minutes!
 
 MINECRAFT is copyrighted by Mojang AB. 
