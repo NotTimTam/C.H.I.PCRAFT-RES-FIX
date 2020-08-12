@@ -3,4 +3,4 @@ Run build.sh by double clicking it, or selecting it and pressing ENTER
 A folder called MCPI will appear after a couple of minutes (1-3). Open it and run the start.sh file.
 Minecraft Pi Edition will open after a few seconds... DONE!
 
-Note, moving the window or trying to resize it while playing will cause the game to permanently freeze! Restarting the game will fix the problem. (So no tryin' to move the window to the center of your screen)
+Note: moving the window or trying to resize it while playing will cause the game to permanently freeze!
